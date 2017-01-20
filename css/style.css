@@ -1,0 +1,23 @@
+.add-product{
+    max-width:700px;
+
+}
+.form-group div input{
+    margin-bottom: 5px;
+}
+
+.btn-add-product{
+    background: #2980B9;
+    color:azure;
+    width: 200px;
+    font-size: 16px;
+}
+.navbar div{
+    background: #2980B9;
+}
+
+.navbar div a {
+    color: azure;
+}
+
+
